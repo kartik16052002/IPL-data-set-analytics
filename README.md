@@ -6,4 +6,4 @@ Put both the file in data folder.
 
 Initialize virtualenv. 
 
-Download the packages/libraries from requirements.txt
+Download the packages/libraries from requirement.
